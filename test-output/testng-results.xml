@@ -1,73 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-09T13:47:26 IST" name="Default suite" finished-at="2023-03-09T13:47:26 IST" duration-ms="202">
+  <suite started-at="2023-03-10T17:28:12 IST" name="Default suite" finished-at="2023-03-10T17:28:12 IST" duration-ms="103">
     <groups>
     </groups>
-    <test started-at="2023-03-09T13:47:26 IST" name="Default test" finished-at="2023-03-09T13:47:26 IST" duration-ms="202">
-      <class name="test.RandomScripts">
-        <test-method signature="Alpha_Numeric()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Alpha_Numeric" finished-at="2023-03-09T13:47:26 IST" duration-ms="22" status="PASS">
+    <test started-at="2023-03-10T17:28:12 IST" name="Default test" finished-at="2023-03-10T17:28:12 IST" duration-ms="103">
+      <class name="d.Source">
+        <test-method signature="main()[pri:0, instance:d.Source@6eda5c9]" started-at="2023-03-10T17:28:12 IST" name="main" finished-at="2023-03-10T17:28:12 IST" duration-ms="32" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Alpha_Numeric -->
-        <test-method signature="Alpha_NumericwithSpecial_Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Alpha_NumericwithSpecial_Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="6" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Alpha_NumericwithSpecial_Blank -->
-        <test-method signature="Alphabets()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Alphabets" finished-at="2023-03-09T13:47:26 IST" duration-ms="6" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Alphabets -->
-        <test-method signature="AlphabetwithBlank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="AlphabetwithBlank" finished-at="2023-03-09T13:47:26 IST" duration-ms="6" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AlphabetwithBlank -->
-        <test-method signature="AlphabetwithNumber_Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="AlphabetwithNumber_Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="5" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AlphabetwithNumber_Blank -->
-        <test-method signature="AlphabetwithNumber_special()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="AlphabetwithNumber_special" finished-at="2023-03-09T13:47:26 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AlphabetwithNumber_special -->
-        <test-method signature="AlphabetwithSpecial()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="AlphabetwithSpecial" finished-at="2023-03-09T13:47:26 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AlphabetwithSpecial -->
-        <test-method signature="AlphabetwithSpecial_Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="AlphabetwithSpecial_Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="5" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AlphabetwithSpecial_Blank -->
-        <test-method signature="Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Blank -->
-        <test-method signature="Number_special()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Number_special" finished-at="2023-03-09T13:47:26 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Number_special -->
-        <test-method signature="Numbers()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Numbers" finished-at="2023-03-09T13:47:26 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Numbers -->
-        <test-method signature="NumberwithSpecial_Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="NumberwithSpecial_Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- NumberwithSpecial_Blank -->
-        <test-method signature="Numberwith_Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Numberwith_Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="5" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Numberwith_Blank -->
-        <test-method signature="SpecialChars()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="SpecialChars" finished-at="2023-03-09T13:47:26 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SpecialChars -->
-        <test-method signature="Special_Blank()[pri:0, instance:test.RandomScripts@192d43ce]" started-at="2023-03-09T13:47:26 IST" name="Special_Blank" finished-at="2023-03-09T13:47:26 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Special_Blank -->
-      </class> <!-- test.RandomScripts -->
+        </test-method> <!-- main -->
+      </class> <!-- d.Source -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
