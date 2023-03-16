@@ -6,7 +6,8 @@ import org.apache.commons.lang3.RandomStringUtils;
 import org.testng.annotations.Test;
 
 public class RandomScripts {
-
+///commit by github
+	
 
 	@Test
 		public void Alphabets() 
